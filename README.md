@@ -24,6 +24,11 @@ He is interested in Microsoft Azure cloud, Unity and XR development, and .NET/C#
 
 <a href="https://www.amazon.com/Game-Development-Unity-NET-Developers/dp/1801078076"><img src="https://static.packt-cdn.com/products/9781801078078/cover/smaller" alt="Game Development with Unity for .NET Developers" height="256px" align="right"></a>
 
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+<b><p align='center'>[Buy now](https://packt.link/9781801078078)</p></b>
+
 **The ultimate guide to creating games with Unity and Microsoft Game Stack**
 
 ## What is this book about?
