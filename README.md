@@ -20,7 +20,19 @@ He is interested in Microsoft Azure cloud, Unity and XR development, and .NET/C#
 
 ![](https://github-readme-stats.vercel.app/api?username=chenjd&show_icons=true)
 
-# Game Development with Unity for .NET Developers
+# 🏆 Jiadong Chen's Azure Security Challenge! Become a cloud MVP!
+
+I am privileged to host a Cloud skills challenge with Microsoft on Azure security. 
+
+This challenge will help people learn the fundamentals of Azure security and better understand the cloud. Working with Microsoft has been an incredible experience, as they have shared their expertise to help us create a challenging and rewarding learning experience.
+
+You'll start by exploring general security concepts. As you progress through the learning modules, you will learn how to manage identity and access, secure applications, data and networks, and configure and manage threat protection. Along the way, you'll expect step-by-step explanations of basic concepts, practical examples, and self-assessment questions.
+
+Whether you are a beginner or an experienced learner, in this cloud security skills challenge, or bootcamp, you will gain interesting experience and knowledge related to Azure cloud security!
+
+[Join the challenge](https://learn.microsoft.com/en-au/training/challenges?id=d57442ce-27bf-4bb6-a689-f95c6abdf0e7&WT.mc_id=DT-MVP-5001664)
+
+# 📖 Game Development with Unity for .NET Developers
 
 <a href="https://www.amazon.com/Game-Development-Unity-NET-Developers/dp/1801078076"><img src="https://static.packt-cdn.com/products/9781801078078/cover/smaller" alt="Game Development with Unity for .NET Developers" height="256px" align="right"></a>
 
