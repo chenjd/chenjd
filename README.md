@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 ![Jiadong's GitHub stats](https://img.shields.io/github/followers/chenjd?style=social)
 ![](https://img.shields.io/badge/Blog-jiadongchen.com-blue)
 
-Jiadong Chen is one of 3,000 Microsoft® Most Valuable Professional (MVP) award winners internationally, recognized by Microsoft as one of the technology industry’s best and brightest six years in a row and is currently working as a Senior Software Developer @[Company-X](https://www.linkedin.com/company/company-x-ltd/), based in Hamilton, New Zealand.
+Jiadong Chen is one of 3,000 Microsoft® Most Valuable Professional (MVP) award winners internationally, recognized by Microsoft as one of the technology industry’s best and brightest seven years in a row, and is currently working as a Cloud Architect/Senior Developer @[Company-X](https://www.linkedin.com/company/company-x-ltd/), based in Hamilton, New Zealand.
 
-He is interested in Microsoft Azure cloud, Unity and XR development, and .NET/C#. He is a Microsoft Certified Azure Solutions Architect Expert, Microsoft Certified Azure Developer, Microsoft Certified Azure AI Engineer, Microsoft Certified Trainer. He is also a member of the .NET Foundation.
+Jiadong specializes in Microsoft Azure cloud, Cyber Security, and .NET/C#. He is a Microsoft Certified Cybersecurity Architect Expert, Microsoft Certified Azure Solutions Architect Expert, Microsoft Certified Identity and Access Administrator, Microsoft Certified Azure Security Engineer, Microsoft Certified Azure Developer, Microsoft Certified Azure AI Engineer, Microsoft Certified Azure Administrator, and Microsoft Certified Trainer. He is also a Microsoft Most Valuable Professional Award winner since October 2015, MVP Global Cloud Skills Challenge Winner, and a member of the .NET Foundation.
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=chenjd&show_icons=true)
