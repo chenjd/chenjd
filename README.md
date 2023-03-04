@@ -21,7 +21,7 @@ Jiadong specializes in Microsoft Azure cloud, Cyber Security, and .NET/C#. He is
 
 ![](https://github-readme-stats.vercel.app/api?username=chenjd&show_icons=true)
 
-# 🏆 Jiadong Chen's Azure Security Challenge! Become a cloud MVP!
+# [🏆 Jiadong Chen's Azure Security Challenge! Become a cloud MVP!](https://learn.microsoft.com/en-au/training/challenges?id=d57442ce-27bf-4bb6-a689-f95c6abdf0e7&WT.mc_id=DT-MVP-5001664)
 
 I am privileged to host a Cloud skills challenge with Microsoft on Azure security. 
 
@@ -33,7 +33,7 @@ Whether you are a beginner or an experienced learner, in this cloud security ski
 
 [Join the challenge](https://learn.microsoft.com/en-au/training/challenges?id=d57442ce-27bf-4bb6-a689-f95c6abdf0e7&WT.mc_id=DT-MVP-5001664)
 
-# 📖 Game Development with Unity for .NET Developers
+# [📖 Game Development with Unity for .NET Developers](https://www.amazon.com/Game-Development-Unity-NET-Developers/dp/1801078076)
 
 <a href="https://www.amazon.com/Game-Development-Unity-NET-Developers/dp/1801078076"><img src="https://static.packt-cdn.com/products/9781801078078/cover/smaller" alt="Game Development with Unity for .NET Developers" height="256px" align="right"></a>
 
