@@ -19,7 +19,6 @@ Jiadong specializes in Microsoft Azure cloud, Cyber Security, and .NET/C#. He is
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=chenjd&show_icons=true)
 
 # [🏆 Jiadong Chen's Azure Security Challenge! Become a cloud MVP!](https://learn.microsoft.com/en-au/training/challenges?id=d57442ce-27bf-4bb6-a689-f95c6abdf0e7&WT.mc_id=DT-MVP-5001664)
 
